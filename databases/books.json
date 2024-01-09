@@ -1,0 +1,281 @@
+[
+  {
+    "id": 1,
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "description": "Harry Potter and the Sorcerer's Stone",
+    "unit": 1,
+    "owners": [
+      4
+    ]
+  },
+  {
+    "id": 2,
+    "name": "1984",
+    "author": "George Orwell",
+    "category": "Dystopian Fiction",
+    "description": "1984",
+    "unit": 10,
+    "owners": []
+  },
+  {
+    "id": 4,
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "description": "The Hobbit",
+    "unit": 10,
+    "owners": [
+      3
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Classic Literature",
+    "description": "Pride and Prejudice",
+    "unit": 10,
+    "owners": []
+  },
+  {
+    "id": 6,
+    "name": "The Shining",
+    "author": "Stephen King",
+    "category": "Horror",
+    "description": "The Shining",
+    "unit": 10,
+    "owners": []
+  },
+  {
+    "id": 7,
+    "name": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "category": "Mystery",
+    "description": "Murder on the Orient Express",
+    "unit": 10,
+    "owners": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": 8,
+    "name": "One Hundred Years of Solitude",
+    "author": "Gabriel Garcia Marquez",
+    "category": "Magical Realism",
+    "description": "One Hundred Years of Solitude",
+    "unit": 10,
+    "owners": []
+  },
+  {
+    "id": 9,
+    "name": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "category": "Classic Literature",
+    "description": "The Old Man and the Sea",
+    "unit": 10,
+    "owners": []
+  },
+  {
+    "id": 10,
+    "name": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "category": "Fiction",
+    "description": "The Catcher in the Rye",
+    "unit": 10,
+    "owners": []
+  },
+  {
+    "id": 11,
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "category": "Classic Literature",
+    "description": "The Great Gatsby",
+    "unit": 10,
+    "owners": []
+  },
+  {
+    "id": 12,
+    "name": "Brave New World",
+    "author": "Aldous Huxley",
+    "category": "Dystopian Fiction",
+    "description": "Brave New World",
+    "unit": 10,
+    "owners": []
+  },
+  {
+    "id": 13,
+    "name": "Moby-Dick",
+    "author": "Herman Melville",
+    "category": "Classic Literature",
+    "description": "Moby-Dick",
+    "unit": 10,
+    "owners": []
+  },
+  {
+    "id": 14,
+    "name": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "description": "The Lord of the Rings",
+    "unit": 10,
+    "owners": [
+      2
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Jane Eyre",
+    "author": "Charlotte Bront",
+    "category": "Classic Literature",
+    "description": "Jane Eyre",
+    "unit": 10,
+    "owners": []
+  },
+  {
+    "id": 16,
+    "name": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "category": "Mystery",
+    "description": "The Da Vinci Code",
+    "unit": 10,
+    "owners": []
+  },
+  {
+    "id": 17,
+    "name": "Frankenstein",
+    "author": "Mary Shelley",
+    "category": "Gothic Fiction",
+    "description": "Frankenstein",
+    "unit": 10,
+    "owners": []
+  },
+  {
+    "id": 18,
+    "name": "Wuthering Heights",
+    "author": "Emily Bront\u00c3\u00ab",
+    "category": "Gothic Fiction",
+    "description": "Wuthering Heights",
+    "unit": 10,
+    "owners": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": 19,
+    "name": "The Odyssey",
+    "author": "Homer",
+    "category": "Epic Poetry",
+    "description": "The Odyssey",
+    "unit": 10,
+    "owners": []
+  },
+  {
+    "id": 20,
+    "name": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "category": "Gothic Fiction",
+    "description": "The Picture of Dorian Gray",
+    "unit": 10,
+    "owners": []
+  },
+  {
+    "id": 21,
+    "name": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "category": "Science Fiction",
+    "description": "The Hunger Games",
+    "unit": 10,
+    "owners": []
+  },
+  {
+    "id": 22,
+    "name": "The Road",
+    "author": "Cormac McCarthy",
+    "category": "Post-Apocalyptic Fiction",
+    "description": "The Road",
+    "unit": 10,
+    "owners": []
+  },
+  {
+    "id": 23,
+    "name": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "category": "Dystopian Fiction",
+    "description": "The Handmaid's Tale",
+    "unit": 10,
+    "owners": [
+      5
+    ]
+  },
+  {
+    "id": 24,
+    "name": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Philosophical Fiction",
+    "description": "The Alchemist",
+    "unit": 10,
+    "owners": []
+  },
+  {
+    "id": 25,
+    "name": "The Road Not Taken",
+    "author": "Robert Frost",
+    "category": "Poetry",
+    "description": "The Road Not Taken",
+    "unit": 10,
+    "owners": []
+  },
+  {
+    "id": 26,
+    "name": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "category": "Mystery",
+    "description": "The Adventures of Sherlock Holmes",
+    "unit": 10,
+    "owners": []
+  },
+  {
+    "id": 27,
+    "name": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "category": "Dystopian Fiction",
+    "description": "Fahrenheit 451",
+    "unit": 10,
+    "owners": [
+      2
+    ]
+  },
+  {
+    "id": 28,
+    "name": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "category": "Fantasy",
+    "description": "The Chronicles of Narnia",
+    "unit": 10,
+    "owners": []
+  },
+  {
+    "id": 29,
+    "name": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "category": "Children's Literature",
+    "description": "The Secret Garden",
+    "unit": 10,
+    "owners": [
+      2
+    ]
+  },
+  {
+    "id": 30,
+    "name": "The Catch-22",
+    "author": "Joseph Heller",
+    "category": "Satirical Fiction",
+    "description": "Catch-22",
+    "unit": 10,
+    "owners": []
+  }
+]
